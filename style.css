@@ -18,4 +18,11 @@
 }
 .membros-div{
     align-items: center;
+
+}
+
+.membros-imagem{
+    display:flex;
+    flex-wrap;
+    justify-content: center;
 }
